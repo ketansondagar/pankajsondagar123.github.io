@@ -69,7 +69,7 @@
 - sql store proceser
 
 
-## Firmware Development:
+## Web Development:
 
 - C#, jQuery , HTML , CSS , bootstrap , javascript. 
 
@@ -118,9 +118,6 @@
     <td>&#11088;&#11088;</td>
   </tr>
 </table>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![pankajsondagar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajsondagar123&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
